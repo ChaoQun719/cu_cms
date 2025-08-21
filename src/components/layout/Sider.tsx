@@ -1,5 +1,9 @@
 import type React from "react";
 
+/**
+ * 侧边栏组件
+ * @returns 
+ */
 const Sider: React.FC = () => {
     return (
         <div>
